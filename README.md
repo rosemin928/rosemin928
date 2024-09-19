@@ -34,3 +34,5 @@
       src="https://img.shields.io/badge/rosemin928@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemin928&layout=compact)
